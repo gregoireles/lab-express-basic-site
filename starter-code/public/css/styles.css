@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+
+* {
+  padding: 0 20px 0;
+}
+
+.nav_main {
+  height: 50px;
+  text-align: center;
+  padding: 30px 0 10px 0;
+  background: #5660ae;
+  font-family: "Roboto", sans-serif;
+}
+
+.home1 {
+  text-decoration: none;
+  padding: 100px;
+  font-size: 1.5em;
+  color: white;
+}
+
+.home {
+  text-align: center;
+  color: blue;
+}
+
+.imgExe {
+  background: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  margin: 20px;
+}
+
+.facts {
+  width: 70%;
+}
+
+.intro {
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+}
+
+.about {
+  font-family: "Roboto", sans-serif;
+}
+
+.gallery {
+  text-align: center;
+  padding: 30px;
+  font-family: "Roboto", sans-serif;
+}
+
+.photo1 {
+  height: 300px;
+  width: 30%;
+}
+
+.photo2 {
+  width: 30%;
+}
+
+.photo3 {
+  height: 300px;
+  width: 30%;
+}
+
+.photo5 {
+  height: 300px;
+  width: 30%;
+}
+
+.photo6 {
+  height: 300px;
+}
+
+.about {
+  text-align: center;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.box1 {
+  width: 300px;
+  border: 15px solid lightblue;
+  padding: 50px;
+  margin: 20px;
+}
